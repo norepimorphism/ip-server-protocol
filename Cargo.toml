@@ -1,0 +1,17 @@
+# SPDX-License-Identifier: MPL-2.0
+
+[package]
+name = "ip-service-protocol"
+version = "0.1.0"
+edition = "2021"
+license = "MPL-2.0"
+
+[[bin]]
+name = "ipsp-client"
+path = "src/bin/client.rs"
+
+[[bin]]
+name = "ipsp-server"
+path = "src/bin/server/main.rs"
+
+[dependencies]
