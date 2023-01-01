@@ -14,4 +14,4 @@ See [*spec.md*](./spec.md).
 
 In the top-level of this repository is the source code for the Rust crate *ip-service-protocol*, which offers client and server CLI programs.
 
-The crate source code is licensed under the Mozilla Public License 2.0. A copy of the license is provided at [LICENSE](#./LICENSE).
+The crate source code is licensed under the Mozilla Public License 2.0. A copy of the license is provided at [LICENSE](./LICENSE).
